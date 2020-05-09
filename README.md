@@ -1,6 +1,7 @@
 # inleaning-react
 This project is for practicing react tools and fundementals that can be found
-on linked in learning, under the react pathway
+on linked in learning, under the react pathway.
+The ultimate objective is to create a website to host photography work using the [Google Photos API](https://developers.google.com/photos)
 
 # Create React App Documentation
 
