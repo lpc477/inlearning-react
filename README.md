@@ -1,3 +1,9 @@
+# inleaning-react
+This project is for practicing react tools and fundementals that can be found
+on linked in learning, under the react pathway
+
+# Create React App Documentation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
